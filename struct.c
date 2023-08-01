@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//https://www.inf.pucrs.br/~pinho/LaproI/Structs/Structs.htm
+
 typedef struct // cria uma struct para armazenar os dados de uma pessoa
 {
     float Peso;
